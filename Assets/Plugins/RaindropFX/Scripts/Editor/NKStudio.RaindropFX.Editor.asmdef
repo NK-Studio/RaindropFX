@@ -1,0 +1,20 @@
+{
+    "name": "NKStudio.RaindropFX.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:29be7693d6de144938034e827c1c2dd8",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:3eae0364be2026648bf74846acb8a731"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
